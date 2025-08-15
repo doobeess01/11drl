@@ -10,5 +10,4 @@ A roguelike engine with on python-tcod. The 3 refers to this being my third seri
 + Equipment and equipment slots
 + Staircases; multiple dungeon levels
 + Doors and support for other interactible "dungeon features"
-
-Procedural generation will not be included here and should be implemented in any games that use this engine.
++ An example procedural generation algorithm implementation (BSP with random room connection via pathfinding)
